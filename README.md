@@ -26,46 +26,46 @@
 
 | code | output |
 | ---- | ------ |
-| \alpha | $ \alpha $ |
-| \beta | $ \beta $ |
-| \gamma | $ \gamma $ |
-| \delta | $ \delta $ |
-| \epsilon | $ \epsilon $ |
-| \varepsilon | $ \varepsilon $ |
-| \zeta | $ \zeta $ |
-| \eta | $ \eta $ |
-| \Gamma | $ \Gamma $ |
-| \Delta | $ \Delta $ |
-| \Theta | $ \Theta $ |
-| \theta | $ \theta $ |
-| \vartheta | $ \vartheta $ |
-| \iota | $ \iota $ |
-| \kappa | $ \kappa $ |
-| \lambda | $ \lambda $ |
-| \mu | $ \mu $ |
-| \nu | $ \nu $ |
-| \xi | $ \xi $ |
-| \Lambda | $ \Lambda $ |
-| \Xi | $ \Xi $ |
-| \Pi | $ \Pi $ |
-| \pi | $ \pi $ |
-| \varpi | $ \varpi $ |
-| \rho | $ \rho $ |
-| \varrho | $ \varrho $ |
-| \sigma | $ \sigma $ |
-| \varsigma | $ \varsigma $ |
-| \tau | $ \tau $ |
-| \Sigma | $ \Sigma $ |
-| \Upsilon | $ \Upsilon $ |
-| \Phi | $ \Phi $ |
-| \upsilon | $ \upsilon $ |
-| \phi | $ \phi $ |
-| \varphi | $ \varphi $ |
-| \chi | $ \chi $ |
-| \psi | $ \psi $ |
-| \omega | $ \omega $ |
-| \Psi | $ \Psi $ |
-| \Omega | $ \Omega $ |
+| \alpha | $\alpha$ |
+| \beta | $\beta$ |
+| \gamma | $\gamma$ |
+| \delta | $\delta$ |
+| \epsilon | $\epsilon$ |
+| \varepsilon | $\varepsilon$ |
+| \zeta | $\zeta$ |
+| \eta | $\eta$ |
+| \Gamma | $\Gamma$ |
+| \Delta | $\Delta$ |
+| \Theta | $\Theta$ |
+| \theta | $\theta$ |
+| \vartheta | $\vartheta$ |
+| \iota | $\iota$ |
+| \kappa | $\kappa$ |
+| \lambda | $\lambda$ |
+| \mu | $\mu$ |
+| \nu | $\nu$ |
+| \xi | $\xi$ |
+| \Lambda | $\Lambda$ |
+| \Xi | $\Xi$ |
+| \Pi | $\Pi$ |
+| \pi | $\pi$ |
+| \varpi | $\varpi$ |
+| \rho | $\rho$ |
+| \varrho | $\varrho$ |
+| \sigma | $\sigma$ |
+| \varsigma | $\varsigma$ |
+| \tau | $\tau$ |
+| \Sigma | $\Sigma$ |
+| \Upsilon | $\Upsilon$ |
+| \Phi | $\Phi$ |
+| \upsilon | $\upsilon$ |
+| \phi | $\phi$ |
+| \varphi | $\varphi$ |
+| \chi | $\chi$ |
+| \psi | $\psi$ |
+| \omega | $\omega$ |
+| \Psi | $\Psi$ |
+| \Omega | $\Omega$ |
 
 #### Binary Relatoin\lt
 

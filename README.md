@@ -4,7 +4,7 @@
 
 ### Symbols
 
-#### Math mode accent
+#### Math Mode Accent
 
 | code | output |
 | ---- | ------ |
@@ -22,7 +22,7 @@
 | \widehat{AAA} | $\widehat{AAA}$ |
 | \widetilde{AAA} | $\widetilde{AAA}$ |
 
-#### Greek Lette
+#### Greek Letters
 
 | code | output |
 | ---- | ------ |
@@ -67,7 +67,7 @@
 | \Psi | $\Psi$ |
 | \Omega | $\Omega$ |
 
-#### Binary Relatoin\lt
+#### Binary Relatoins
 
 | code | output |
 | ---- | ------ |

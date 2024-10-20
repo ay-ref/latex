@@ -2,6 +2,12 @@
 
 ## Mathematics
 
+### Writing Formulas
+
+| code | output |
+| ---- | ------ |
+| \sum_{i=1}^{N} | $\sum_{i=1}^{N}$ |
+
 ### Symbols
 
 #### Math Mode Accent

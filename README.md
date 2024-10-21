@@ -124,10 +124,10 @@
 
 | code | output |
 | ---- | ------ |
-| \mathrm{ABCDEabcde1234} | $\mathrm{ABCDEabcde1234}$ |
-| \mathit{ABCDEabcde1234} | $\mathit{ABCDEabcde1234}$ |
-| \mathnormal{ABCDEabcde1234} | $\mathnormal{ABCDEabcde1234}$ |
-| \mathcal{ABCDEabcde1234} | $\mathcal{ABCDEabcde1234}$ |
+| \mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
+| \mathit{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathit{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
+| \mathnormal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathnormal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
+| \mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
 
 #### Miscellaneous Symbols
 

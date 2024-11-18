@@ -129,7 +129,16 @@
 | \mathnormal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathnormal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
 | \mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890} | $\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890}$ |
 
-#### Miscellaneous Symbols
+#### operations
+
+| code | output |
+| ---- | ------ |
+| \cdot | $\cdot$ |
+| + | $+$ |
+| - | $-$ |
+| \pm | $\pm$ |
+
+#### misc symbols
 
 | code | output |
 | ---- | ------ |

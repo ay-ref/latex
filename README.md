@@ -8,6 +8,7 @@
 | ---- | ------ |
 | \sum_{i=1}^{N} | $\sum_{i=1}^{N}$ |
 | \bigcup_{i=1}^{N} | $\bigcup_{i=1}^{N}$ |
+| \prod_{i=1}^{N} | $\prod_{i=1}^{N}$ |
 
 ### Symbols
 

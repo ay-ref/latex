@@ -1,5 +1,9 @@
 # LaTeX
 
+```sh
+docker run --rm -v "$PWD:/src" -w /src -u "$UID:$GID" ghcr.io/kjarosh/latex:devel-any-20250706 latexmk -pdf -outdir=out -auxdir=out/aux main.tex
+```
+
 ## Mathematics
 
 ### Writing Formulas
